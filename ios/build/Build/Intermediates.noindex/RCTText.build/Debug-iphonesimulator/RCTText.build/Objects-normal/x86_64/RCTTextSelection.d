@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/RCTTextSelection.m \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/RCTTextSelection.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.m \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \

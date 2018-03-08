@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Blob/RCTBlobManager.m \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Blob/RCTBlobManager.mm \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Blob/RCTBlobManager.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
@@ -21,5 +21,7 @@ dependencies: \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTWebSocketModule.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTWebSocketModule.h

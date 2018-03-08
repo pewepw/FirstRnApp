@@ -1,5 +1,6 @@
 import React from 'react';
-import { Modal, View, Image, Text, Button, StyleSheet } from 'react-native';
+import { Modal, View, Image, Text, Button, StyleSheet, TouchableOpacity } from 'react-native';
+import Icon from 'react-native-vector-icons/Ionicons';
 
 const placeDetail = props => {
     let modalContent = null;
@@ -7,8 +8,8 @@ const placeDetail = props => {
     if (props.selectedPlace) {
         modalContent = (
             <View>
-            <Image source={props.selectedPlace.image} style={styles.placeImage}/>
-            <Text style={styles.placeName}>{props.selectedPlace.name}</Text>
+                <Image source={props.selectedPlace.image} style={styles.placeImage}/>
+                <Text style={styles.placeName}>{props.selectedPlace.name}</Text>
             </View>
         );
     }
@@ -18,6 +19,11 @@ const placeDetail = props => {
             {modalContent}
 
             <View>
+                <TouchableOpacity onPress={props.onItemDeleted}>
+                    <View style={styles.deleteButton}>
+                        <Icon name="ios-trash" size={30} color="red"/>
+                    </View>  
+                </TouchableOpacity>
                 <Button title="Delete" color="red" onPress={props.onItemDeleted}/>
                 <Button title="Close" onPress={props.onModalClosed}/>
             </View>
@@ -41,7 +47,10 @@ const styles = StyleSheet.create({
         fontWeight: "bold",
         textAlign: "center",
         fontSize: 28,
+    },
 
+    deleteButton: {
+        alignItems: "center"
     }
 });
 

@@ -19,4 +19,5 @@ dependencies: \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Profiler/RCTProfile.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

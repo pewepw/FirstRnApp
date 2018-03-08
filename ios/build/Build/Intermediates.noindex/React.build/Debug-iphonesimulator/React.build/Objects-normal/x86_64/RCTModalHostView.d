@@ -28,5 +28,4 @@ dependencies: \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/RCTModalHostViewController.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTTouchHandler.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Modules/RCTUIManager.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTRootView.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTTVRemoteHandler.h
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTRootView.h

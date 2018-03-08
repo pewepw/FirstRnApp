@@ -15,6 +15,7 @@ dependencies: \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Modules/RCTI18nUtil.h
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTAssert.h

@@ -21,6 +21,7 @@ dependencies: \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTEventDispatcher.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTModuleData.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Profiler/RCTProfile.h \

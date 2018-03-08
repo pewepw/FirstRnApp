@@ -21,6 +21,6 @@ dependencies: \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTUtils.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/RCTPointerEvents.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Modules/RCTI18nUtil.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/UIView+Private.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Modules/RCTI18nUtil.h
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/UIView+React.h

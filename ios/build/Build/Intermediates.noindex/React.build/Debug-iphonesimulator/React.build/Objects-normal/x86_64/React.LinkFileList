@@ -4,7 +4,6 @@
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTStatusBarManager.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSourceCode.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMultipartStreamReader.o
-/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePicker.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTFrameUpdate.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceHostingView.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxBridge.o
@@ -22,11 +21,12 @@
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDevMenu.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRootShadowView.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMultipartDataTask.o
-/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollContentViewManager.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTBorderDrawing.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxConvert.o
+/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePicker.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAssert.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIManagerObserverCoordinator.o
+/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollContentViewManager.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSlider.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTFollyConvert.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAsyncLocalStorage.o
@@ -46,7 +46,6 @@
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTViewManager.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTImageSource.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxUtils.o
-/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePickerManager.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModuleMethod.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfileTrampoline-x86_64.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTEventEmitter.o
@@ -55,12 +54,12 @@
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPerfMonitor.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTLayoutAnimation.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTCxxModule.o
+/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollContentShadowView.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfileTrampoline-arm64.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfileTrampoline-i386.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTFont.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTTabBarManager.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollView.o
-/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollContentShadowView.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTScrollViewManager.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTJSCSamplingProfiler.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceRootView.o
@@ -75,6 +74,7 @@
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAppState.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRootContentView.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/UIView+React.o
+/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRedBoxExtraDataViewController.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSliderManager.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDeviceInfo.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/NSDataBigString.o
@@ -101,15 +101,17 @@
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUtils.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTConvert+Transform.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTRefreshControl.o
+/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTDatePickerManager.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWebView.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTBridge.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView+Layout.o
+/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMaskedView.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTWebViewManager.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTPicker.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTTabBarItem.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalHostView.o
-/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView.o
+/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSurfaceSizeMeasureMode.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/PrivateDataBase.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTProfileTrampoline-arm.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSegmentedControlManager.o
@@ -135,3 +137,4 @@
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTComponentData.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTNavigatorManager.o
 /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalManager.o
+/Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTUIUtils.o

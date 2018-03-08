@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/RCTTextViewManager.m \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/RCTTextViewManager.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.m \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
@@ -23,15 +23,14 @@ dependencies: \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/RCTConvert+Text.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/RCTShadowTextView.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/RCTTextView.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/RCTTextInput.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/RCTFontAttributes.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/RCTFontAttributesDelegate.h
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/Libraries/Text/Text/RCTTextView.h

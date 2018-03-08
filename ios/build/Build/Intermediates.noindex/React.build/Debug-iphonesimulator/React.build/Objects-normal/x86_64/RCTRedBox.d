@@ -21,4 +21,6 @@ dependencies: \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTErrorInfo.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTJSStackFrame.h
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTJSStackFrame.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Modules/RCTRedBoxExtraDataViewController.h

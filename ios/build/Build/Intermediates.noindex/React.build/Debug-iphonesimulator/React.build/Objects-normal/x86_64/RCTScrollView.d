@@ -28,5 +28,7 @@ dependencies: \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTRootView.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/RCTViewManager.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/UIView+Private.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/RCTRefreshControl.h

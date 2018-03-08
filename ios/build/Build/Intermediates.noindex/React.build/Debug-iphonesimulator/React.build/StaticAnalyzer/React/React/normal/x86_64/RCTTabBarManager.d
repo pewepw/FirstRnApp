@@ -23,4 +23,7 @@ dependencies: \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTInvalidating.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/UIView+React.h \
   /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/RCTTabBar.h
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h
