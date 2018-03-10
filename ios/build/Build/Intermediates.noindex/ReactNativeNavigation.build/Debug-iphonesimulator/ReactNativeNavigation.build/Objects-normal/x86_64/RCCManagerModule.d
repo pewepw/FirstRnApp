@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCManagerModule.m \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCManagerModule.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCManager.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCNavigationController.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCViewController.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerController.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCLightBox.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCTabBarController.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCDrawerController/RCCTheSideBarManagerViewController.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/TheSidebarController.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/Animations/SidebarAnimation.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RCCNotification.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/harry/Desktop/React-Dev/first-rn-app/node_modules/react-native-navigation/ios/RNNSwizzles.h
