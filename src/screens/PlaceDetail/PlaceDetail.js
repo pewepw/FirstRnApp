@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Image, Text, Button, StyleSheet, TouchableOpacity } from 'react-native';
+import { View, Image, Text, Button, StyleSheet, TouchableOpacity, Platform, ScrollView } from 'react-native';
 import { connect } from 'react-redux';
 import Icon from 'react-native-vector-icons/Ionicons';
 import { deletePlace } from '../../store/actions/index'
@@ -10,9 +10,13 @@ class PlaceDetail extends Component {
         this.props.navigator.pop();
     }
 
+    closeHandler = () => {
+        this.props.navigator.pop();
+    }
+
     render () {
         return (
-            <View style={styles.container}>
+            <ScrollView style={styles.container}>
 
             <View>
                 <Image source={this.props.selectedPlace.image} style={styles.placeImage}/>
@@ -22,21 +26,23 @@ class PlaceDetail extends Component {
             <View>
                 <TouchableOpacity onPress={this.placeDeletedHandler}>
                     <View style={styles.deleteButton}>
-                        <Icon name="ios-trash" size={30} color="red"/>
+                        <Icon 
+                        name={Platform.OS === "android" ? "md-trash" : "ios-trash"}
+                        size={30} color="red"/>
                     </View>  
                 </TouchableOpacity>
                 <Button title="Delete" color="red" onPress={this.placeDeletedHandler}/>
-                <Button title="Close" onPress={this.props.onModalClosed}/>
+                <Button title="Close" onPress={this.closeHandler}/>
             </View>
 
-        </View>
+        </ScrollView>
         )
     }
 };
 
 const styles = StyleSheet.create({
     container: {
-        margin: 30,
+        padding: 30,
     },
 
     placeImage: {
