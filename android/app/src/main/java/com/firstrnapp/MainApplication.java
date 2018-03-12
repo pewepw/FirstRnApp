@@ -14,6 +14,7 @@ import java.util.Arrays;
 import java.util.List;
 
 import com.reactnativenavigation.NavigationApplication;
+import com.airbnb.android.react.maps.MapsPackage;
 
 // public class MainApplication extends Application implements ReactApplication {
 
@@ -61,7 +62,9 @@ import com.reactnativenavigation.NavigationApplication;
          // Add additional packages you require here
          // No need to add RnnPackage and MainReactPackage
          return Arrays.<ReactPackage>asList(
-             new VectorIconsPackage()
+             new VectorIconsPackage(),
+             new MainReactPackage(),
+             new MapsPackage()
          );
      }
 
@@ -69,9 +72,10 @@ import com.reactnativenavigation.NavigationApplication;
      public List<ReactPackage> createAdditionalReactPackages() {
          return getPackages();
      }
- }
 
     @Override
     public String getJSMainModuleName() {
         return "index";
     }
+
+}

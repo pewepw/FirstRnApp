@@ -1,0 +1,4 @@
+#Mon Mar 12 12:48:41 MYT 2018
+base.0=/Users/harry/Desktop/React-Dev/first-rn-app/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
