@@ -14,7 +14,9 @@ const reducer = (state = initialState, action) => {
                     name: action.placeName,
                     image: {
                       uri: "https://i0.wp.com/lovecuteanimals.objects.cdn.dream.io/wp-content/uploads/2016/01/Cute-Netherland-Dwarf-Rabbit.jpg?w=1160"
-                    }})
+                    },
+                    location: action.location
+                })
             };
 
         case DELETE_PLACE:

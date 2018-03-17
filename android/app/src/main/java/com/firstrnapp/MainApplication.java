@@ -5,6 +5,10 @@ import com.oblador.vectoricons.VectorIconsPackage;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.oblador.vectoricons.VectorIconsPackage;
+import com.reactnativenavigation.NavigationReactPackage;
+import com.airbnb.android.react.maps.MapsPackage;
+import com.imagepicker.ImagePickerPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
@@ -16,6 +20,7 @@ import java.util.List;
 import com.reactnativenavigation.NavigationApplication;
 import com.airbnb.android.react.maps.MapsPackage;
 
+import com.imagepicker.ImagePickerPackage;
 // public class MainApplication extends Application implements ReactApplication {
 
 //   private final ReactNativeHost mReactNativeHost = new ReactNativeHost(this) {
@@ -28,6 +33,10 @@ import com.airbnb.android.react.maps.MapsPackage;
 //     protected List<ReactPackage> getPackages() {
 //       return Arrays.<ReactPackage>asList(
 //           new MainReactPackage(),
+            new VectorIconsPackage(),
+            new NavigationReactPackage(),
+            new MapsPackage(),
+            new ImagePickerPackage(),
 //           new VectorIconsPackage()
 //       );
 //     }
@@ -64,7 +73,8 @@ import com.airbnb.android.react.maps.MapsPackage;
          return Arrays.<ReactPackage>asList(
              new VectorIconsPackage(),
              new MainReactPackage(),
-             new MapsPackage()
+             new MapsPackage(),
+             new ImagePickerPackage()
          );
      }
 

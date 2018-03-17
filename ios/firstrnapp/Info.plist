@@ -40,6 +40,8 @@
 	<false/>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string/>
+	<key>NSLocationUsageDescription</key>
+	<string>Let's share a place</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSExceptionDomains</key>
@@ -65,5 +67,11 @@
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>would like access to your photo gallery</string>
+	<key>NSCameraUsageDescription</key>
+	<string>would like to use your camera</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>would like to save photos to your photo gallery</string>
 </dict>
 </plist>
